@@ -22,10 +22,10 @@ nav ul{margin:.2em 1em 5em;padding:0}
 .main input{font-style:italic;margin:5px 0;padding:5px 20px 5px 5px}
 .main .item{border:2px solid #ddd;border-radius:.5em;padding:.5em .5em;margin:.5em 0 0 0;}
 .main .item .product-image{float:right;padding-top:5%}
+.main .item .product-price{font-style:italic}
 .main .item .product-title a{text-decoration:none;width:80%}
 .main .item .votes a{padding:0 .2em;text-decoration:none}
 .main .item .votes div{display:inline}
-.main .item .product-price{font-style:italic}
 .footer-container{background:#383028;border-top:20px solid #ffde6d}
 .footer-container a{color:#fff;text-decoration:none}
 .footer-container article{background-color:#678a5b;color:#bce869;padding:40px;overflow:hidden;font-weight:bold}
